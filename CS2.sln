@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2", "CS2\CS2.csproj", "{1EB02358-95AA-4DDC-9449-406018B625AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTests", "MatrixTests\MatrixTests.csproj", "{AE7ED0B5-AB11-4F47-B19E-AFC9293FEA5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB02358-95AA-4DDC-9449-406018B625AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB02358-95AA-4DDC-9449-406018B625AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB02358-95AA-4DDC-9449-406018B625AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB02358-95AA-4DDC-9449-406018B625AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7ED0B5-AB11-4F47-B19E-AFC9293FEA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7ED0B5-AB11-4F47-B19E-AFC9293FEA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7ED0B5-AB11-4F47-B19E-AFC9293FEA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7ED0B5-AB11-4F47-B19E-AFC9293FEA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
